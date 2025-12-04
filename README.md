@@ -1,19 +1,19 @@
 # Petshop Menu Project
 
-Este projeto foi desenvolvido como parte do currículo da Universidade Católica, como uma aplicação prática da linguagem C.
+This project was developed as part of the curriculum at the Catholic University, serving as a practical application of the C programming language.
 
-## Objetivo
+## 🎯 Objective
 
-O objetivo principal deste projeto é práticar a linguagem C, através do desenvolvimento de uma loja online de petshop.
+The main objective of this project is to practice the C language by developing an online pet shop menu system.
 
-## Funcionalidades Principais
+## 🐾 Key Features
 
-- Escolher um serviço ou produto.
-- Escolher hora,data e verificar disponibilidade.
-- Escolher forma de pagamento e receber nota fiscal.
+- Select a service or product  
+- Choose a date and time and check availability  
+- Select a payment method and receive an invoice  
 
-## Como Usar
+## 🚀 How to Use
 
-1. Copie o codigo do arquivo Codigo.c e cole em uma IDE em seu ambiente de desenvolvimento, a IDE usada por mim para este projeto foi : codeblocks-20.03mingw-setup.
-
-   
+1. Copy the code from the **Codigo.c** file.  
+2. Paste it into your IDE or development environment.  
+   The IDE used for this project was **CodeBlocks 20.03 (MinGW setup)**.
